@@ -108,25 +108,25 @@ No visible brand, no product, no text, no subtitles.
 
 늦은 밤 어두운 공간에서 공부에 지친 대학생의 모습을 통해 광고의 문제 상황을 명확하게 제시하였다.
 
-생성 결과 파일명
+### 생성 결과 파일명
 
 VOLT_S1_image.png
 VOLT_S1_video.mp4
 
-5. Scene 2
-씬 번호
+# 5. Scene 2
+### 씬 번호
 
-Scene 2
+### Scene 2
 
 씬 길이
 
 약 2.4초
 
-목표 메시지
+### 목표 메시지
 
 지친 상황을 전환시키는 VOLT의 등장을 보여준다.
 
-화면 구성
+### 화면 구성
 
 어두운 책상 위에 검은색 에너지 드링크 캔이 놓여 있다. 제품 주변에서 일렉트릭 블루 빛이 강하게 발광하며 제품의 존재감을 강조한다.
 
@@ -136,11 +136,11 @@ Scene 2
 
 화면 카피: 없음
 
-내레이션
+### 내레이션
 
 “다시 시작해.”
 
-사용 도구 및 목적
+### 사용 도구 및 목적
 
 이미지 생성 AI
 
@@ -153,7 +153,7 @@ Sora 2
 GPT-4o Mini TTS
 
 목적: Scene 2 내레이션 생성
-입력 프롬프트
+### 입력 프롬프트
 A premium cinematic product shot of a sleek matte black energy drink can standing upright on a dark reflective study desk at night.
 
 The can is centered in the frame and surrounded by a subtle electric blue glow.
@@ -171,7 +171,7 @@ The can should have a simple lightning bolt symbol on the front. Avoid complex t
 No people visible, no subtitles, no additional objects in the foreground.
 
 16:9 horizontal composition, premium energy drink commercial.
-출력 결과 요약
+### 출력 결과 요약
 
 어두운 공간 속에서 푸른 전기 에너지와 함께 제품을 등장시켜 분위기의 전환점을 만들었다.
 
@@ -180,20 +180,20 @@ No people visible, no subtitles, no additional objects in the foreground.
 VOLT_S2_image.png
 VOLT_S2_video.mp4
 
-6. Scene 3
-씬 번호
+# 6. Scene 3
+### 씬 번호
 
-Scene 3
+### Scene 3
 
 씬 길이
 
 약 2.5초
 
-목표 메시지
+### 목표 메시지
 
 VOLT를 통해 지친 상황에서 다시 집중하는 모습을 보여준다.
 
-화면 구성
+### 화면 구성
 
 대학생이 다시 노트북 앞에 앉아 집중해서 작업하고 있다.
 
@@ -203,11 +203,11 @@ VOLT를 통해 지친 상황에서 다시 집중하는 모습을 보여준다.
 
 화면 카피: 없음
 
-내레이션
+### 내레이션
 
 “볼트.”
 
-사용 도구 및 목적
+### 사용 도구 및 목적
 
 이미지 생성 AI
 
@@ -220,7 +220,7 @@ Sora 2
 GPT-4o Mini TTS
 
 목적: 브랜드명을 강조하는 짧은 음성 생성
-입력 프롬프트
+### 입력 프롬프트
 A cinematic realistic advertisement scene showing the same young Korean university student from a late-night study session, now focused and energized while working on his laptop.
 
 He is sitting at the same dark desk in the same nighttime study environment.
@@ -238,29 +238,29 @@ Premium cinematic lighting, realistic human proportions, realistic skin texture,
 No subtitles, no extra text, no additional people.
 
 16:9 horizontal composition, premium energy drink commercial.
-출력 결과 요약
+### 출력 결과 요약
 
 인물의 표정과 주변의 푸른 전기 에너지를 통해 지친 상태에서 집중력을 회복한 변화를 표현하였다.
 
-생성 결과 파일명
+### 생성 결과 파일명
 
 VOLT_S3_image.png
 VOLT_S3_video.mp4
 
-7. Scene 4
-씬 번호
+# 7. Scene 4
+### 씬 번호
 
-Scene 4
+### Scene 4
 
 씬 길이
 
 약 2.5초
 
-목표 메시지
+### 목표 메시지
 
 제품과 브랜드 슬로건을 직접 보여주며 광고 메시지를 완성한다.
 
-화면 구성
+### 화면 구성
 
 검은색 VOLT 에너지 드링크 캔을 화면 중앙에 크게 배치한다.
 
@@ -268,19 +268,19 @@ Scene 4
 
 화면 상단에는 브랜드명 VOLT, 그 아래에는 슬로건 “멈추지 말고, 다시 시작해.”를 배치하여 광고의 마지막 메시지를 전달한다.
 
-화면 카피
+### 화면 카피
 
 VOLT
 
 멈추지 말고, 다시 시작해.
 
-내레이션
+### 내레이션
 
 없음
 
 ※ 마지막 장면은 음성 없이 제품과 브랜드 메시지를 강조하여 마무리한다.
 
-사용 도구 및 목적
+### 사용 도구 및 목적
 
 이미지 생성 AI
 
@@ -293,7 +293,7 @@ Sora 2
 GPT-4o Mini TTS
 
 Scene 4에는 사용하지 않음
-입력 프롬프트
+### 입력 프롬프트
 A premium cinematic energy drink commercial ending shot.
 
 A sleek matte black energy drink can stands upright in the exact center of a dark reflective surface.
@@ -323,29 +323,29 @@ Premium energy drink advertising, cinematic product photography, realistic metal
 No additional text, no subtitles, no people, no hands, no extra objects, no explosions, no camera shake.
 
 16:9 horizontal composition.
-출력 결과 요약
+### 출력 결과 요약
 
 중앙의 제품과 VOLT 브랜드명, 슬로건을 함께 노출하여 광고의 핵심 메시지를 명확하게 전달하는 엔딩 장면을 완성하였다.
 
-생성 결과 파일명
+### 생성 결과 파일명
 
 VOLT_S4_image.png
 VOLT_S4_video.mp4
 
-8. 프롬프트 수정 전/후 비교
-수정 대상
+# 8. 프롬프트 수정 전/후 비교
+### 수정 대상
 
 Scene 4
 
-수정 전 프롬프트의 문제
+##수정 전 프롬프트의 문제
 
 초기 제품 이미지에서는 브랜드명을 이미지 생성 AI가 정확하게 표현하지 못하거나 글자가 왜곡되는 문제가 발생하였다.
 
 특히 에너지 드링크 캔에 들어가는 VOLT 글자가 변형되거나 한글 문구가 정확하게 생성되지 않는 문제가 있었다.
 
-수정 전
+#### 수정 전
 A cinematic product shot of a black energy drink can with a glowing blue lightning bolt logo, surrounded by electric blue energy in a dark study room. Create a powerful premium energy drink advertisement with a strong brand identity and slogan.
-수정 후
+#### 수정 후
 A premium cinematic energy drink commercial ending shot.
 
 A sleek matte black energy drink can stands upright in the exact center of a dark reflective surface.
@@ -375,7 +375,7 @@ Premium energy drink advertising, cinematic product photography, realistic metal
 No additional text, no subtitles, no people, no hands, no extra objects, no explosions, no camera shake.
 
 16:9 horizontal composition.
-수정 이유
+### 수정 이유
 
 수정 전 프롬프트는 제품의 분위기와 브랜드 콘셉트만 설명했기 때문에 텍스트의 위치와 형태에 대한 제어가 부족했다.
 
@@ -392,12 +392,12 @@ No additional text, no subtitles, no people, no hands, no extra objects, no expl
 
 그 결과 최종 Scene 4에서는 VOLT와 한글 슬로건이 비교적 정확하게 표현된 결과물을 확보할 수 있었다.
 
-9. 오디오 생성 과정
-사용 도구
+# 9. 오디오 생성 과정
+### 사용 도구
 
 GPT-4o Mini TTS
 
-사용 목적
+### 사용 목적
 
 영상에 사람의 내레이션을 추가하여 시각적 요소뿐만 아니라 청각적으로도 광고 메시지를 전달하기 위해 사용하였다.
 
@@ -423,79 +423,79 @@ onyx
 
 VOLT_TTS_onyx.mp3
 
-10. 영상 제작 및 편집 파이프라인
+# 10. 영상 제작 및 편집 파이프라인
 
 전체 제작 과정은 다음과 같은 순서로 진행하였다.
 
-STEP 1. 브랜드 및 캠페인 기획
+### STEP 1. 브랜드 및 캠페인 기획
 
 ↓
 가상의 에너지 드링크 브랜드 VOLT 설정
 
-STEP 2. 스토리보드 작성
+### STEP 2. 스토리보드 작성
 
 ↓
 4개의 씬으로 광고의 전체적인 이야기 구성
 
-STEP 3. 이미지 생성
+### STEP 3. 이미지 생성
 
 ↓
 각 씬의 분위기와 화면 구성을 이미지 생성 AI를 통해 제작
 
-STEP 4. 이미지 및 영상 콘셉트 확정
+### STEP 4. 이미지 및 영상 콘셉트 확정
 
 ↓
 캐릭터, 색감, 제품, 조명 등의 시각적 요소 확인
 
-STEP 5. 영상 생성
+### STEP 5. 영상 생성
 
 ↓
 OpenAI Sora 2를 사용하여 각 장면을 약 4초 영상으로 생성
 
-STEP 6. 오디오 생성
+### STEP 6. 오디오 생성
 
 ↓
 GPT-4o Mini TTS + onyx를 사용하여 내레이션 생성
 
-STEP 7. 통합 편집
+### STEP 7. 통합 편집
 
 ↓
 CapCut에서 Scene 1~4를 순서대로 배치하고 AI 음성을 삽입
 
-STEP 8. 최종 출력
+### STEP 8. 최종 출력
 
 ↓
 10초 이내의 하나의 MP4 광고 영상으로 출력
 
-11. AI 도구 선택 이유
-제작 영역	사용 도구	선택 이유
+# 11. AI 도구 선택 이유
+## 제작 영역	사용 도구	선택 이유
 이미지 생성	이미지 생성 AI	각 씬의 분위기와 광고 콘셉트를 먼저 확정하기 위해 사용
 비디오 생성	OpenAI Sora 2	생성된 장면을 자연스러운 영상으로 구현하기 위해 사용
 음성 생성	GPT-4o Mini TTS	짧은 광고 내레이션을 AI 음성으로 제작하기 위해 사용
 영상 편집	CapCut	AI로 생성한 영상과 음성을 하나의 광고 영상으로 통합하기 위해 사용
-12. 편집 및 최종 영상 구성
+# 12. 편집 및 최종 영상 구성
 
 CapCut을 이용하여 생성된 4개의 영상을 순서대로 연결하였다.
 
-Scene 1
+### Scene 1
 
 지친 대학생 → 문제 상황 제시
 
-Scene 2
+### Scene 2
 
 VOLT 제품 등장 → 상황 전환
 
-Scene 3
+### Scene 3
 
 에너지 회복 → 다시 집중
 
-Scene 4
+### Scene 4
 
 VOLT + 슬로건 → 브랜드 메시지 전달
 
 AI로 생성된 영상과 AI 음성을 주된 소스로 사용하였으며, CapCut에서는 영상 연결 및 오디오 삽입 등 통합 편집을 중심으로 작업하였다.
 
-13. 최종 영상 사양
+# 13. 최종 영상 사양
 항목	최종 결과
 파일 형식	MP4
 영상 길이	약 9.64초
@@ -506,40 +506,40 @@ AI로 생성된 영상과 AI 음성을 주된 소스로 사용하였으며, CapC
 음성 소스	생성형 AI
 편집 도구	CapCut
 브랜드	VOLT
-14. 제작 과정에서 발생한 문제 및 해결 방법
-문제 1. AI 이미지의 텍스트 오류
+# 14. 제작 과정에서 발생한 문제 및 해결 방법
+## 문제 1. AI 이미지의 텍스트 오류
 
 제품 이미지 생성 과정에서 VOLT라는 브랜드명이 왜곡되거나 한글 문구가 정확하게 표현되지 않는 문제가 발생하였다.
 
-해결 방법
+## 해결 방법
 
 텍스트의 내용과 위치를 프롬프트에 구체적으로 명시하고, 불필요한 텍스트가 생성되지 않도록 조건을 추가하였다.
 
-문제 2. 캐릭터 및 분위기 일관성
+## 문제 2. 캐릭터 및 분위기 일관성
 
 각 씬을 별도로 생성하면서 인물의 외형이나 분위기가 완전히 동일하게 유지되지 않을 가능성이 있었다.
 
-해결 방법
+## 해결 방법
 
 각 씬의 프롬프트에서 젊은 한국인 대학생, 어두운 야간 공부 공간, 검정/네이비 계열 의상, 일렉트릭 블루 조명 등의 공통 요소를 반복적으로 지정하여 시각적 일관성을 유지하였다.
 
-문제 3. 영상 생성 크레딧 및 생성 실패 가능성
+## 문제 3. 영상 생성 크레딧 및 생성 실패 가능성
 
 영상 생성 AI는 이미지 생성보다 크레딧 소모량이 많고 원하는 결과가 나오지 않을 경우 재생성 비용이 발생할 수 있다.
 
-해결 방법
+## 해결 방법
 
 먼저 이미지 단계에서 전체적인 장면과 스타일을 확정한 후 Sora 2를 이용해 영상으로 변환하였다. 또한 최종 광고를 4개의 씬으로 단순화하여 불필요한 재생성을 줄였다.
 
-문제 4. 영상 길이 제한
+## 문제 4. 영상 길이 제한
 
 과제의 최종 영상 길이는 10초 이내여야 한다.
 
-해결 방법
+## 해결 방법
 
 각 씬의 길이를 약 2.4~2.5초로 조정하여 최종 영상 길이를 약 9.64초로 구성하였다.
 
-15. 최종 결과 및 기대 효과
+## 15. 최종 결과 및 기대 효과
 
 이번 광고는 “지쳤다고 멈추지 말고, 다시 시작하자”라는 메시지를 중심으로 구성하였다.
 
@@ -549,24 +549,24 @@ AI로 생성된 영상과 AI 음성을 주된 소스로 사용하였으며, CapC
 
 또한 이미지 생성 AI, 영상 생성 AI, 음성 생성 AI를 각각 활용하고 CapCut을 통해 결과물을 통합함으로써 기획 → 프롬프트 → 생성 → 수정 → 통합 편집 → 최종 영상 출력으로 이어지는 AI 기반 멀티모달 제작 파이프라인을 직접 경험하였다.
 
-16. 최종 산출물
-① 스토리보드 및 제작 문서
+## 16. 최종 산출물
+#### ① 스토리보드 및 제작 문서
 
 VOLT_AI_Advertisement_Storyboard.pdf
 
-② 최종 광고 영상
+#### ② 최종 광고 영상
 
 VOLT_AI_Advertisement_Final.mp4
 
-③ 생성 이미지
+#### ③ 생성 이미지
 VOLT_S1_image.png
 VOLT_S2_image.png
 VOLT_S3_image.png
 VOLT_S4_image.png
-④ 생성 영상
+#### ④ 생성 영상
 VOLT_S1_video.mp4
 VOLT_S2_video.mp4
 VOLT_S3_video.mp4
 VOLT_S4_video.mp4
-⑤ AI 음성
+#### ⑤ AI 음성
 VOLT_TTS_onyx.mp3
